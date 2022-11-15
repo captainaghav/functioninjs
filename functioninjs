@@ -1,0 +1,6 @@
+function user(){
+return(
+<h>HELLO<H1>
+);
+}//NORMAL FUNCTION JS
+const user =()=><h1>hello</h1>
